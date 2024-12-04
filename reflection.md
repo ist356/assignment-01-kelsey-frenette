@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I learned how to use breakpoints and the debugger tool to pause code and inspect it but it took me a few tries to learn where I was supposed place the breakpoints which was near the issue code. Debugging the code was my biggest issue because it was difficult for me to interpret what needed to be debugged and how to fix it. Boundary conditions were also tricky for me, with values in gpa.py and required a lot of trial and error on my part.
